@@ -1,0 +1,20 @@
+{
+  "name": "escrow_project",
+  "version": "1.0.0",
+  "description": "This project includes a smart contract for escrow transactions, a backend using Node.js, and a frontend built with React.",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.22.18"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^6.13.5"
+  }
+}

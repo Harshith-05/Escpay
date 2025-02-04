@@ -1,0 +1,13 @@
+const tx = await escrow.createDeal(sellawait tx.wait();
+const escrow = await Escrow.attach(escrowAddress);const seller = "0x50F3366CF8ddb0BA41f32D9f11c1c51e92dAaa12";
+const Escrow = await ethers.getContractFactory("Escrow");
+const escrow = await Escrow.attach(escrowAddress);const escrowAddress = "0xFB7eb5d5Ded27b71Cd2BEBF1A9cEd0f4e9e6e69D";  // Replace with your deployed address
+const Escrow = await ethers.getContractFactory("Escrow");
+const escrowAddress = "0xFB7eb5d5Ded27b71Cd2BEBF1A9cEd0f4e9e6e69D";  // Replace with your deployed address
+const Escrow = await ethers.getContractFactconst escrow = await Escrow.attach(
+const escrowAddress = "0xFB7eb5d5Ded27b71Cd2BEBF1A9cEd0f4e9e6e69D";  // Replace with your deployed address
+const Escrow = await ethers.getContractFactory("Escrow");
+const escrowAddress = "0xFB7eb5d5Ded27b71Cd2BEBF1A9cEd0f4e9e6e69D";  // Replace with your deployed address
+.help
+const Escrow =const escrow = await Escrow.attach(escrowAddress);
+const escrowAddress = "0xYourContractAddress";  // Replace with your deployed address
